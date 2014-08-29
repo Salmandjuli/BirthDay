@@ -16,4 +16,4 @@ echo "Maka anda dapat melihat hari lahir anda pada kalender dibawah ini"
 cal -d $tah-$bul-$tang
 
 echo "View My Blog"
-firefox http://www.salmandjuli.blogspot.com
+firefox http://salmandjuli.honor.es/
